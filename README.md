@@ -22,15 +22,17 @@ Annotated Entities:
 
 **Annotations performed by:**
 
-**Novosibirks Machine Learning Team** 
+**Novosibirsk Machine Learning Team** 
 
 **dotin Inc.** 
+
+info@dotin.us
 
 
 Sources:
 =================
 
-> Palan,M.2019.resumedataset.csv.Kaggle,Mar.https://www.kaggle.com/maitrip/resumes.
+> Palan, M. resumedataset.csv. Kaggle. https://www.kaggle.com/maitrip/resumes.
 
 > Trilldata-Technologies. Dataturks - best online annotation tool to build pos, ner, nlp datasets.
     https://github.com/DataTurks/Entity-Recognition-In-Resumes-SpaCy
