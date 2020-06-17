@@ -4,6 +4,8 @@
 Dataset used for training and testing NER models discussed in the paper "**Limitations of Neural Networks-based NER for Resume Data Extraction**" 
 to be Published in the **65th issue of the Journal Procesamiento del Lenguaje Natural - [SEPLN](http://www.sepln.org/index.php/en)**.
 
+**DATASET WILL BE ADDED SOON, WE ARE IN THE PROCESS OF ANONYMIZING THE SENSITIVE INFORMATION FROM THE CV'S**
+
 Annotated Entities:
 =================
 
