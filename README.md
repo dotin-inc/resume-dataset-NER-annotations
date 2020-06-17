@@ -1,8 +1,8 @@
 # Resume Dataset with NER annotations
 545 Resumes with NER annotations for 12 Entities.
 
-Dataset used for training and testing NER models discussed in the paper "Limitations of Neural Networks-based NER for Resume Data Extraction" 
-to be Published in the 65th issue of the Journal Procesamiento del Lenguaje Natural - [SEPLN](http://www.sepln.org/index.php/en).
+Dataset used for training and testing NER models discussed in the paper "**Limitations of Neural Networks-based NER for Resume Data Extraction**" 
+to be Published in the **65th issue of the Journal Procesamiento del Lenguaje Natural - [SEPLN](http://www.sepln.org/index.php/en)**.
 
 Annotated Entities:
 =================
@@ -20,9 +20,11 @@ Annotated Entities:
 * Soft Skills
 * Tech Tools
 
-Annotations performed by:
-Novosibirks Machine Learning Team 
-dotin Inc. 
+**Annotations performed by:**
+
+**Novosibirks Machine Learning Team** 
+
+**dotin Inc.** 
 
 
 Sources:
